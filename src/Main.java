@@ -47,7 +47,11 @@ public class Main {
 
 
         com.createRandomHand();
-        //テストコード
-        System.out.println((com.getHand().getHandName()));
+//        テストコード
+//        System.out.println("ランダムなじゃんけんの手を表示する。");
+//        System.out.println((com.getHand().getHandName()));
+
+//        勝敗決定
+//        int result = game.judge(user, com);
     }
 }
